@@ -45,6 +45,7 @@ section{
   height:200px;
   margin:auto;
   float:left;
+  max-width:100%;
 }
 
 
